@@ -1,0 +1,21 @@
+# 🛠️ **ANTES DE ENTRAR AL SERVIDOR**
+
+Te recomendamos tomarte unos minutos para revisar las siguientes configuraciones. Esto es especialmente para servidores con un **pack de mods grande**.
+
+Las siguientes recomendaciones pueden ayudarte a prevenir conflictos y mejorar la estabilidad del juego:
+
+• 🧹 **Realiza una limpieza de mods** para eliminar archivos antiguos o posibles conflictos con versiones anteriores del servidor.
+
+• 🧠 [**Asigna suficiente RAM a Project Zomboid**](https://discord.com/channels/1094881421606256773/1419858870175666350), el juego solo tiene añadidos 3 GB de RAM de manera predeterminada. 
+
+• 👤 [**Configura la skin de personaje**](https://discord.com/channels/1094881421606256773/1540486861930242201) para mejorar el aspecto visual de los personajes y la ropa.
+
+⚠️ **Estos ajustes son recomendados, pero el rendimiento puede variar dependiendo de las características de cada equipo.**
+
+Si experimentas problemas como:
+
+• 🎮 Tirones o pequeños congelamientos  
+• 📉 Bajones de FPS  
+• ⚡ Problemas de estabilidad  
+• 💥 Cierres inesperados  
+### Te recomendamos revisar nuevamente estas configuraciones antes de reportar algún problema técnico.

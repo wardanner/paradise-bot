@@ -1,0 +1,10 @@
+### 🧾 Registro en la Whitelist
+Para poder acceder al servidor necesitas crear un **usuario** y una **contraseña**, los cuales se usarán únicamente para tu registro en la whitelist.
+
+### 📋 Indicaciones importantes
+- 🔒 **Máximo 16 caracteres.**
+- ⛔ **No uses símbolos ni espacios.**
+- 🚫 **No uses datos personales.**
+- 🚷 **No uses tu cuenta de Steam.**
+
+👉 Define tu **usuario y contraseña** (inventados por ti) y compártelos aquí para completar tu registro.

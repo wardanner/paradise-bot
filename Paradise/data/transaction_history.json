@@ -1,0 +1,5102 @@
+{
+  "Blair": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 9,
+        "timestamp": 1787010993
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 14,
+        "timestamp": 1787010825
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 23,
+        "timestamp": 1786847810
+      },
+      {
+        "type": "Transfer",
+        "sender": "BeliOs",
+        "recipient": "Blair",
+        "coin": 7494,
+        "specialCoin": 0,
+        "timestamp": 1786842464
+      },
+      {
+        "type": "Transfer",
+        "sender": "MizukiHR",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786837137
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786814424
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786804538
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 6,
+        "timestamp": 1786587698
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Arjhidazz",
+        "coin": 2308,
+        "specialCoin": 0,
+        "timestamp": 1786425602
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "BlackTempest",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1786425233
+      }
+    ]
+  },
+  "Alvaro": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Alex",
+        "coin": 53750,
+        "specialCoin": 0,
+        "timestamp": 1786953010
+      },
+      {
+        "type": "Deposit",
+        "sender": "Alvaro",
+        "recipient": "",
+        "coin": 8500,
+        "specialCoin": 0,
+        "timestamp": 1786926910
+      },
+      {
+        "type": "Deposit",
+        "sender": "Alvaro",
+        "recipient": "",
+        "coin": 2320,
+        "specialCoin": 0,
+        "timestamp": 1786926604
+      },
+      {
+        "type": "Deposit",
+        "sender": "Alvaro",
+        "recipient": "",
+        "coin": 15570,
+        "specialCoin": 0,
+        "timestamp": 1786896796
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "wolfrat",
+        "coin": 43500,
+        "specialCoin": 0,
+        "timestamp": 1786671829
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1786671469
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Piupiu1808",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1786671469
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1786671288
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Wasly",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1786671288
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HITECH",
+        "coin": 6000,
+        "specialCoin": 0,
+        "timestamp": 1786671288
+      }
+    ]
+  },
+  "Sisyphus": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Sisyphus",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786422923
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sisyphus",
+        "coin": 3250,
+        "specialCoin": 0,
+        "timestamp": 1786419899
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sisyphus",
+        "coin": 4380,
+        "specialCoin": 0,
+        "timestamp": 1785884996
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Sisyphus",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785873132
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sisyphus",
+        "coin": 4070,
+        "specialCoin": 0,
+        "timestamp": 1785300006
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Sisyphus",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785213622
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Sisyphus",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1785122057
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Sisyphus",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784918756
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sisyphus",
+        "recipient": "Lionflute",
+        "coin": 165,
+        "specialCoin": 0,
+        "timestamp": 1784866783
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sisyphus",
+        "coin": 5740,
+        "specialCoin": 0,
+        "timestamp": 1784718439
+      }
+    ]
+  },
+  "DarckNight": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "DarckNight",
+        "recipient": "",
+        "coin": 11,
+        "specialCoin": 0,
+        "timestamp": 1786765846
+      },
+      {
+        "type": "Deposit",
+        "sender": "DarckNight",
+        "recipient": "",
+        "coin": 16,
+        "specialCoin": 0,
+        "timestamp": 1786765441
+      },
+      {
+        "type": "Deposit",
+        "sender": "DarckNight",
+        "recipient": "",
+        "coin": 2,
+        "specialCoin": 0,
+        "timestamp": 1786764564
+      },
+      {
+        "type": "Deposit",
+        "sender": "DarckNight",
+        "recipient": "",
+        "coin": 9,
+        "specialCoin": 0,
+        "timestamp": 1786764088
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "DarckNight",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786428546
+      },
+      {
+        "type": "Deposit",
+        "sender": "DarckNight",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1785720769
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "DarckNight",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640410
+      },
+      {
+        "type": "Transfer",
+        "sender": "DarckNight",
+        "recipient": "Gonzalo",
+        "coin": 180,
+        "specialCoin": 0,
+        "timestamp": 1785540899
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tanya",
+        "recipient": "DarckNight",
+        "coin": 1090,
+        "specialCoin": 0,
+        "timestamp": 1785538677
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "DarckNight",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785538548
+      }
+    ]
+  },
+  "Tonyberinais": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tonyberinais",
+        "coin": 6000,
+        "specialCoin": 0,
+        "timestamp": 1786422782
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tonyberinais",
+        "coin": 6000,
+        "specialCoin": 0,
+        "timestamp": 1785872604
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tonyberinais",
+        "recipient": "Alexandro",
+        "coin": 0,
+        "specialCoin": 60,
+        "timestamp": 1785703385
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tonyberinais",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640330
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tonyberinais",
+        "coin": 0,
+        "specialCoin": 15,
+        "timestamp": 1785640238
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tonyberinais",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785278290
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tonyberinais",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785213650
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tonyberinais",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 15,
+        "timestamp": 1785187647
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Tonyberinais",
+        "coin": 2722,
+        "specialCoin": 0,
+        "timestamp": 1785122247
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tonyberinais",
+        "coin": 0,
+        "specialCoin": 15,
+        "timestamp": 1784610484
+      }
+    ]
+  },
+  "EiDredd": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "HITECH",
+        "coin": 8000,
+        "specialCoin": 0,
+        "timestamp": 1786056266
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "EiDredd",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1784608238
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "EiDredd",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1784008953
+      },
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "HITECH",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1783735027
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "EiDredd",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1783391798
+      },
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "Gonzalo",
+        "coin": 1200,
+        "specialCoin": 0,
+        "timestamp": 1782968649
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "EiDredd",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1782864038
+      },
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "HITECH",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1782851315
+      },
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "Gonzalo",
+        "coin": 40,
+        "specialCoin": 0,
+        "timestamp": 1782427218
+      },
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "PurpleHazeExit",
+        "coin": 300,
+        "specialCoin": 0,
+        "timestamp": 1782367535
+      }
+    ]
+  },
+  "wolfrat": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 9,
+        "timestamp": 1787010993
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 14,
+        "timestamp": 1787010825
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "wolfrat",
+        "coin": 43500,
+        "specialCoin": 0,
+        "timestamp": 1786671829
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "wolfrat",
+        "coin": 10500,
+        "specialCoin": 0,
+        "timestamp": 1786671168
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 6,
+        "timestamp": 1786587698
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "wolfrat",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1786392271
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Alvaro",
+        "coin": 24000,
+        "specialCoin": 0,
+        "timestamp": 1786313660
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "wolfrat",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1786312447
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "wolfrat",
+        "coin": 0,
+        "specialCoin": 66,
+        "timestamp": 1786299042
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 75,
+        "timestamp": 1785966364
+      }
+    ]
+  },
+  "Lionflute": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "GastonFasito",
+        "recipient": "Lionflute",
+        "coin": 0,
+        "specialCoin": 36,
+        "timestamp": 1786585296
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Lionflute",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1786422837
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "FrixzT",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786334039
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "VozarLjgz",
+        "coin": 1647,
+        "specialCoin": 0,
+        "timestamp": 1786333979
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Roku94",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786333919
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "Lionflute",
+        "coin": 235,
+        "specialCoin": 0,
+        "timestamp": 1786252202
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "Lionflute",
+        "coin": 100,
+        "specialCoin": 0,
+        "timestamp": 1786229667
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "Lionflute",
+        "coin": 0,
+        "specialCoin": 20,
+        "timestamp": 1786055306
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Lionflute",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1785872726
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "FrixzT",
+        "coin": 2650,
+        "specialCoin": 0,
+        "timestamp": 1785798792
+      }
+    ]
+  },
+  "VozarLjgz": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "VozarLjgz",
+        "coin": 2200,
+        "specialCoin": 0,
+        "timestamp": 1786428366
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "VozarLjgz",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1786425218
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "VozarLjgz",
+        "coin": 1100,
+        "specialCoin": 0,
+        "timestamp": 1786416546
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "VozarLjgz",
+        "coin": 1647,
+        "specialCoin": 0,
+        "timestamp": 1786333979
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "Lionflute",
+        "coin": 235,
+        "specialCoin": 0,
+        "timestamp": 1786252202
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "VozarLjgz",
+        "coin": 465,
+        "specialCoin": 0,
+        "timestamp": 1786251288
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "BlackTempest",
+        "coin": 250,
+        "specialCoin": 0,
+        "timestamp": 1786247797
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "Lionflute",
+        "coin": 100,
+        "specialCoin": 0,
+        "timestamp": 1786229667
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "Lionflute",
+        "coin": 0,
+        "specialCoin": 20,
+        "timestamp": 1786055306
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "VozarLjgz",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785876737
+      }
+    ]
+  },
+  "viceprice": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "JellyBean",
+        "coin": 8,
+        "specialCoin": 0,
+        "timestamp": 1785523483
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "Alex",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1785512275
+      },
+      {
+        "type": "Deposit",
+        "sender": "viceprice",
+        "recipient": "",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1785510382
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 1,
+        "timestamp": 1785510020
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "Alex",
+        "coin": 10,
+        "specialCoin": 0,
+        "timestamp": 1785509353
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 1,
+        "timestamp": 1785509153
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "Alex",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1783438089
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "Alex",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1782618200
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "viceprice",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1782612073
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "viceprice",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1782612073
+      }
+    ]
+  },
+  "Juan123BS": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "blckdmnv",
+        "coin": 1,
+        "specialCoin": 5,
+        "timestamp": 1787182909
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Juan123BS",
+        "coin": 2640,
+        "specialCoin": 0,
+        "timestamp": 1786425002
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Juan123BS",
+        "coin": 2600,
+        "specialCoin": 0,
+        "timestamp": 1786416795
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Juan123BS",
+        "coin": 0,
+        "specialCoin": 66,
+        "timestamp": 1786389629
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "Juan123BS",
+        "coin": 0,
+        "specialCoin": 24,
+        "timestamp": 1786309901
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "ghostlysugar293",
+        "coin": 0,
+        "specialCoin": 5,
+        "timestamp": 1786249761
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "Tanya",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1786249722
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "Arjhidazz",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1786249704
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "laurent",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1786249693
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "Maithos_Komeji",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1786249685
+      }
+    ]
+  },
+  "laurent": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "blckdmnv",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1786917153
+      },
+      {
+        "type": "Deposit",
+        "sender": "laurent",
+        "recipient": "",
+        "coin": 360,
+        "specialCoin": 0,
+        "timestamp": 1786852175
+      },
+      {
+        "type": "Deposit",
+        "sender": "laurent",
+        "recipient": "",
+        "coin": 5200,
+        "specialCoin": 0,
+        "timestamp": 1786852165
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sebastienmatu",
+        "recipient": "laurent",
+        "coin": 16085,
+        "specialCoin": 0,
+        "timestamp": 1786808444
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "laurent",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1786424969
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "laurent",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1786422959
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "laurent",
+        "coin": 2900,
+        "specialCoin": 0,
+        "timestamp": 1786416780
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "Juan123BS",
+        "coin": 0,
+        "specialCoin": 24,
+        "timestamp": 1786309901
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "ghostlysugar293",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1786305106
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "Arjhidazz",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1786305106
+      }
+    ]
+  },
+  "Alex": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Alex",
+        "coin": 53750,
+        "specialCoin": 0,
+        "timestamp": 1786953010
+      },
+      {
+        "type": "Deposit",
+        "sender": "Alex",
+        "recipient": "",
+        "coin": 609,
+        "specialCoin": 0,
+        "timestamp": 1786857340
+      },
+      {
+        "type": "Deposit",
+        "sender": "Alex",
+        "recipient": "",
+        "coin": 2594,
+        "specialCoin": 0,
+        "timestamp": 1786857327
+      },
+      {
+        "type": "Transfer",
+        "sender": "Shawn",
+        "recipient": "Alex",
+        "coin": 9000,
+        "specialCoin": 0,
+        "timestamp": 1786747084
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Gonzalo",
+        "coin": 7320,
+        "specialCoin": 0,
+        "timestamp": 1786676985
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Alvaro",
+        "coin": 5625,
+        "specialCoin": 0,
+        "timestamp": 1786423008
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Alvaro",
+        "coin": 16000,
+        "specialCoin": 0,
+        "timestamp": 1786422986
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "laurent",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1786422959
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JhonMarquez",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786422947
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Arjhidazz",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786422936
+      }
+    ]
+  },
+  "sirxxpaper": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "sirxxpaper",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786422914
+      },
+      {
+        "type": "Transfer",
+        "sender": "sirxxpaper",
+        "recipient": "Gonzalo",
+        "coin": 1600,
+        "specialCoin": 0,
+        "timestamp": 1785950563
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "sirxxpaper",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785873119
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "sirxxpaper",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785213597
+      },
+      {
+        "type": "Transfer",
+        "sender": "sirxxpaper",
+        "recipient": "Gonzalo",
+        "coin": 1600,
+        "specialCoin": 0,
+        "timestamp": 1785206181
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "sirxxpaper",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784918816
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "sirxxpaper",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1784606874
+      },
+      {
+        "type": "Transfer",
+        "sender": "Gonzalo",
+        "recipient": "sirxxpaper",
+        "coin": 860,
+        "specialCoin": 0,
+        "timestamp": 1784432287
+      },
+      {
+        "type": "Transfer",
+        "sender": "sirxxpaper",
+        "recipient": "Tyler_Prime",
+        "coin": 0,
+        "specialCoin": 130,
+        "timestamp": 1784432084
+      },
+      {
+        "type": "Transfer",
+        "sender": "sirxxpaper",
+        "recipient": "Gonzalo",
+        "coin": 3556,
+        "specialCoin": 0,
+        "timestamp": 1784430306
+      }
+    ]
+  },
+  "FrixzT": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "FrixzT",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786425166
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "FrixzT",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786416813
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "FrixzT",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786334039
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "FrixzT",
+        "coin": 2600,
+        "specialCoin": 0,
+        "timestamp": 1785889299
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "FrixzT",
+        "coin": 2250,
+        "specialCoin": 0,
+        "timestamp": 1785876346
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "FrixzT",
+        "coin": 2650,
+        "specialCoin": 0,
+        "timestamp": 1785798792
+      },
+      {
+        "type": "Transfer",
+        "sender": "BlackTempest",
+        "recipient": "FrixzT",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785223888
+      },
+      {
+        "type": "Transfer",
+        "sender": "FrixzT",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785223871
+      },
+      {
+        "type": "Transfer",
+        "sender": "FrixzT",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785222695
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "FrixzT",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1785206537
+      }
+    ]
+  },
+  "dondero": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "dondero",
+        "coin": 10500,
+        "specialCoin": 0,
+        "timestamp": 1786671228
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "dondero",
+        "coin": 1700,
+        "specialCoin": 0,
+        "timestamp": 1786392451
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "dondero",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1785876751
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "dondero",
+        "coin": 1700,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "dondero",
+        "coin": 600,
+        "specialCoin": 0,
+        "timestamp": 1785551027
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "dondero",
+        "coin": 800,
+        "specialCoin": 0,
+        "timestamp": 1785284720
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "dondero",
+        "coin": 1250,
+        "specialCoin": 0,
+        "timestamp": 1785284419
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "dondero",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785122220
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "dondero",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784598967
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "dondero",
+        "coin": 3476,
+        "specialCoin": 0,
+        "timestamp": 1784598762
+      }
+    ]
+  },
+  "PurpleHazeExit": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "PurpleHazeExit",
+        "coin": 1100,
+        "specialCoin": 0,
+        "timestamp": 1786428426
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "PurpleHazeExit",
+        "coin": 2050,
+        "specialCoin": 0,
+        "timestamp": 1786424989
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "PurpleHazeExit",
+        "coin": 1150,
+        "specialCoin": 0,
+        "timestamp": 1786416633
+      },
+      {
+        "type": "Transfer",
+        "sender": "PurpleHazeExit",
+        "recipient": "Alex",
+        "coin": 7000,
+        "specialCoin": 0,
+        "timestamp": 1786109129
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "PurpleHazeExit",
+        "coin": 5450,
+        "specialCoin": 0,
+        "timestamp": 1785876156
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "PurpleHazeExit",
+        "coin": 2300,
+        "specialCoin": 0,
+        "timestamp": 1785810483
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "PurpleHazeExit",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640136
+      },
+      {
+        "type": "Transfer",
+        "sender": "PurpleHazeExit",
+        "recipient": "Juan123BS",
+        "coin": 23,
+        "specialCoin": 16,
+        "timestamp": 1785580352
+      },
+      {
+        "type": "Deposit",
+        "sender": "PurpleHazeExit",
+        "recipient": "",
+        "coin": 160,
+        "specialCoin": 0,
+        "timestamp": 1785578697
+      },
+      {
+        "type": "Deposit",
+        "sender": "PurpleHazeExit",
+        "recipient": "",
+        "coin": 4705,
+        "specialCoin": 0,
+        "timestamp": 1785578688
+      }
+    ]
+  },
+  "Eljoakoatr1": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Eljoakoatr1",
+        "coin": 1150,
+        "specialCoin": 0,
+        "timestamp": 1782182691
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Eljoakoatr1",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782102703
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Eljoakoatr1",
+        "coin": 2300,
+        "specialCoin": 0,
+        "timestamp": 1781584038
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Eljoakoatr1",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1781562289
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Eljoakoatr1",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1781399138
+      }
+    ]
+  },
+  "mightmare1": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "mightmare1",
+        "coin": 0,
+        "specialCoin": 33,
+        "timestamp": 1786299222
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "mightmare1",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1785884892
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "mightmare1",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "mightmare1",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1785299956
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "mightmare1",
+        "coin": 3500,
+        "specialCoin": 0,
+        "timestamp": 1785283999
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "mightmare1",
+        "coin": 0,
+        "specialCoin": 100,
+        "timestamp": 1784898699
+      },
+      {
+        "type": "Transfer",
+        "sender": "mightmare1",
+        "recipient": "Alvaro",
+        "coin": 16000,
+        "specialCoin": 0,
+        "timestamp": 1784886802
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "mightmare1",
+        "coin": 4230,
+        "specialCoin": 0,
+        "timestamp": 1784718559
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "mightmare1",
+        "coin": 0,
+        "specialCoin": 15,
+        "timestamp": 1784610443
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "mightmare1",
+        "coin": 9000,
+        "specialCoin": 0,
+        "timestamp": 1784594737
+      }
+    ]
+  },
+  "ghostlysugar293": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "ghostlysugar293",
+        "coin": 5287,
+        "specialCoin": 0,
+        "timestamp": 1786425045
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "ghostlysugar293",
+        "coin": 700,
+        "specialCoin": 0,
+        "timestamp": 1786416566
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "ghostlysugar293",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1786305106
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "ghostlysugar293",
+        "coin": 0,
+        "specialCoin": 5,
+        "timestamp": 1786249761
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "ghostlysugar293",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1785921187
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "ghostlysugar293",
+        "coin": 3950,
+        "specialCoin": 0,
+        "timestamp": 1785876261
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "ghostlysugar293",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1785810564
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "ghostlysugar293",
+        "coin": 1400,
+        "specialCoin": 0,
+        "timestamp": 1785810417
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "ghostlysugar293",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1785234513
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "ghostlysugar293",
+        "coin": 1400,
+        "specialCoin": 0,
+        "timestamp": 1785205975
+      }
+    ]
+  },
+  "HITECH": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HITECH",
+        "coin": 6000,
+        "specialCoin": 0,
+        "timestamp": 1786671288
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "HITECH",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1786422850
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HITECH",
+        "coin": 2700,
+        "specialCoin": 0,
+        "timestamp": 1786392331
+      },
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "HITECH",
+        "coin": 8000,
+        "specialCoin": 0,
+        "timestamp": 1786056266
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HITECH",
+        "coin": 0,
+        "specialCoin": 50,
+        "timestamp": 1785839087
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HITECH",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "HITECH",
+        "coin": 300,
+        "specialCoin": 0,
+        "timestamp": 1785640753
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "HITECH",
+        "coin": 70,
+        "specialCoin": 0,
+        "timestamp": 1785640348
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "HITECH",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640340
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "HITECH",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640078
+      }
+    ]
+  },
+  "Alexander2002": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Alexander2002",
+        "coin": 0,
+        "specialCoin": 15,
+        "timestamp": 1781569871
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Alexander2002",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1781399205
+      }
+    ]
+  },
+  "GastonFasito": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1786671469
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1786671288
+      },
+      {
+        "type": "Transfer",
+        "sender": "GastonFasito",
+        "recipient": "Lionflute",
+        "coin": 0,
+        "specialCoin": 36,
+        "timestamp": 1786585296
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 0,
+        "specialCoin": 36,
+        "timestamp": 1786585296
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 3300,
+        "specialCoin": 0,
+        "timestamp": 1786391851
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "GastonFasito",
+        "coin": 0,
+        "specialCoin": 5,
+        "timestamp": 1785640115
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "GastonFasito",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640110
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "GastonFasito",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1785625084
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "GastonFasito",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785284059
+      }
+    ]
+  },
+  "JellyBean": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JellyBean",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1785872630
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "JellyBean",
+        "coin": 8,
+        "specialCoin": 0,
+        "timestamp": 1785523483
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JellyBean",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1785213403
+      },
+      {
+        "type": "Transfer",
+        "sender": "Crash",
+        "recipient": "JellyBean",
+        "coin": 0,
+        "specialCoin": 1,
+        "timestamp": 1784345640
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JellyBean",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1784005460
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JellyBean",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1783383887
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JellyBean",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1782692475
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "JellyBean",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1782285599
+      },
+      {
+        "type": "Transfer",
+        "sender": "viceprice",
+        "recipient": "JellyBean",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1782285239
+      },
+      {
+        "type": "Transfer",
+        "sender": "JellyBean",
+        "recipient": "viceprice",
+        "coin": 10,
+        "specialCoin": 0,
+        "timestamp": 1782275326
+      }
+    ]
+  },
+  "Raulpera": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "Raulpera",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1781494908
+      }
+    ]
+  },
+  "Maithos_Komeji": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "Blair",
+        "coin": 0,
+        "specialCoin": 23,
+        "timestamp": 1786847810
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "Maithos_Komeji",
+        "coin": 6200,
+        "specialCoin": 0,
+        "timestamp": 1786440667
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "DarckNight",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786428546
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "MizukiHR",
+        "coin": 2200,
+        "specialCoin": 0,
+        "timestamp": 1786428486
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "PurpleHazeExit",
+        "coin": 1100,
+        "specialCoin": 0,
+        "timestamp": 1786428426
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "VozarLjgz",
+        "coin": 2200,
+        "specialCoin": 0,
+        "timestamp": 1786428366
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Maithos_Komeji",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1786422815
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Maithos_Komeji",
+        "coin": 1150,
+        "specialCoin": 0,
+        "timestamp": 1786416739
+      },
+      {
+        "type": "Deposit",
+        "sender": "Maithos_Komeji",
+        "recipient": "",
+        "coin": 1050,
+        "specialCoin": 0,
+        "timestamp": 1786359616
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tanya",
+        "recipient": "Maithos_Komeji",
+        "coin": 350,
+        "specialCoin": 0,
+        "timestamp": 1786315293
+      }
+    ]
+  },
+  "negrito123456": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "negrito123456",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1781496993
+      }
+    ]
+  },
+  "Gonzalo": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Gonzalo",
+        "coin": 7320,
+        "specialCoin": 0,
+        "timestamp": 1786676985
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Gonzalo",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1786416717
+      },
+      {
+        "type": "Deposit",
+        "sender": "Gonzalo",
+        "recipient": "",
+        "coin": 58,
+        "specialCoin": 0,
+        "timestamp": 1786358797
+      },
+      {
+        "type": "Transfer",
+        "sender": "sirxxpaper",
+        "recipient": "Gonzalo",
+        "coin": 1600,
+        "specialCoin": 0,
+        "timestamp": 1785950563
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Gonzalo",
+        "coin": 2100,
+        "specialCoin": 0,
+        "timestamp": 1785889221
+      },
+      {
+        "type": "Transfer",
+        "sender": "DarckNight",
+        "recipient": "Gonzalo",
+        "coin": 180,
+        "specialCoin": 0,
+        "timestamp": 1785540899
+      },
+      {
+        "type": "Transfer",
+        "sender": "sirxxpaper",
+        "recipient": "Gonzalo",
+        "coin": 1600,
+        "specialCoin": 0,
+        "timestamp": 1785206181
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Gonzalo",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1785206039
+      },
+      {
+        "type": "Transfer",
+        "sender": "Gonzalo",
+        "recipient": "Maithos_Komeji",
+        "coin": 30,
+        "specialCoin": 0,
+        "timestamp": 1785132462
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "Gonzalo",
+        "coin": 592,
+        "specialCoin": 0,
+        "timestamp": 1785130562
+      }
+    ]
+  },
+  "Tyler_Prime": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tyler_Prime",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1785872639
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tyler_Prime",
+        "recipient": "Maithos_Komeji",
+        "coin": 1250,
+        "specialCoin": 0,
+        "timestamp": 1785644063
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "Tyler_Prime",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1785640580
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tyler_Prime",
+        "recipient": "Maithos_Komeji",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785639568
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tyler_Prime",
+        "recipient": "Juan123BS",
+        "coin": 7655,
+        "specialCoin": 0,
+        "timestamp": 1785306575
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tyler_Prime",
+        "recipient": "Juan123BS",
+        "coin": 1100,
+        "specialCoin": 0,
+        "timestamp": 1785306553
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tyler_Prime",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1785213410
+      },
+      {
+        "type": "Transfer",
+        "sender": "PurpleHazeExit",
+        "recipient": "Tyler_Prime",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1785138584
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tyler_Prime",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 500,
+        "timestamp": 1785044998
+      },
+      {
+        "type": "Transfer",
+        "sender": "wolfrat",
+        "recipient": "Tyler_Prime",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1784956029
+      }
+    ]
+  },
+  "Mac_Sade": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Mac_Sade",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786419839
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Mac_Sade",
+        "coin": 3790,
+        "specialCoin": 0,
+        "timestamp": 1785884948
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Mac_Sade",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1782176484
+      },
+      {
+        "type": "Transfer",
+        "sender": "Mac_Sade",
+        "recipient": "Gonzalo",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1781855502
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Mac_Sade",
+        "coin": 3320,
+        "specialCoin": 0,
+        "timestamp": 1781583271
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Mac_Sade",
+        "coin": 800,
+        "specialCoin": 0,
+        "timestamp": 1781498167
+      }
+    ]
+  },
+  "Piupiu1808": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Piupiu1808",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1786671469
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Piupiu1808",
+        "coin": 6000,
+        "specialCoin": 0,
+        "timestamp": 1786422795
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Piupiu1808",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786392391
+      },
+      {
+        "type": "Transfer",
+        "sender": "Piupiu1808",
+        "recipient": "Alvaro",
+        "coin": 10000,
+        "specialCoin": 0,
+        "timestamp": 1786008152
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Piupiu1808",
+        "coin": 6000,
+        "specialCoin": 0,
+        "timestamp": 1785872617
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Piupiu1808",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Piupiu1808",
+        "coin": 0,
+        "specialCoin": 15,
+        "timestamp": 1785640174
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Piupiu1808",
+        "coin": 1250,
+        "specialCoin": 0,
+        "timestamp": 1785284299
+      },
+      {
+        "type": "Transfer",
+        "sender": "Piupiu1808",
+        "recipient": "Arjhidazz",
+        "coin": 3060,
+        "specialCoin": 0,
+        "timestamp": 1785115584
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Piupiu1808",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1783990126
+      }
+    ]
+  },
+  "El_Guerrero_Azteca": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "El_Guerrero_Azteca",
+        "recipient": "Lionflute",
+        "coin": 0,
+        "specialCoin": 8,
+        "timestamp": 1782871080
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "El_Guerrero_Azteca",
+        "coin": 1400,
+        "specialCoin": 0,
+        "timestamp": 1782869405
+      },
+      {
+        "type": "Transfer",
+        "sender": "El_Guerrero_Azteca",
+        "recipient": "HITECH",
+        "coin": 250,
+        "specialCoin": 0,
+        "timestamp": 1782627756
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "El_Guerrero_Azteca",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1782616104
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "El_Guerrero_Azteca",
+        "coin": 0,
+        "specialCoin": 8,
+        "timestamp": 1782604212
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "El_Guerrero_Azteca",
+        "coin": 1200,
+        "specialCoin": 0,
+        "timestamp": 1782459377
+      },
+      {
+        "type": "Transfer",
+        "sender": "El_Guerrero_Azteca",
+        "recipient": "PurpleHazeExit",
+        "coin": 55,
+        "specialCoin": 0,
+        "timestamp": 1782359418
+      },
+      {
+        "type": "Transfer",
+        "sender": "El_Guerrero_Azteca",
+        "recipient": "Alex",
+        "coin": 109,
+        "specialCoin": 0,
+        "timestamp": 1782193757
+      },
+      {
+        "type": "Transfer",
+        "sender": "El_Guerrero_Azteca",
+        "recipient": "Tyler_Prime",
+        "coin": 0,
+        "specialCoin": 48,
+        "timestamp": 1782190316
+      },
+      {
+        "type": "Transfer",
+        "sender": "El_Guerrero_Azteca",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 19,
+        "timestamp": 1782182476
+      }
+    ]
+  },
+  "CHUCKNORRIS": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "CHUCKNORRIS",
+        "coin": 1450,
+        "specialCoin": 0,
+        "timestamp": 1786507029
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "CHUCKNORRIS",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1786422868
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "BlackTempest",
+        "coin": 3600,
+        "specialCoin": 0,
+        "timestamp": 1786416832
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "FrixzT",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786416813
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Juan123BS",
+        "coin": 2600,
+        "specialCoin": 0,
+        "timestamp": 1786416795
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "laurent",
+        "coin": 2900,
+        "specialCoin": 0,
+        "timestamp": 1786416780
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sykes",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786416765
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Maithos_Komeji",
+        "coin": 1150,
+        "specialCoin": 0,
+        "timestamp": 1786416739
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Gonzalo",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1786416717
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sebastienmatu",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786416699
+      }
+    ]
+  },
+  "theBigAlexander": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "theBigAlexander",
+        "coin": 3800,
+        "specialCoin": 0,
+        "timestamp": 1782869675
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "theBigAlexander",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1782275349
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "theBigAlexander",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1781509422
+      }
+    ]
+  },
+  "Ylgan": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Ylgan",
+        "recipient": "Blair",
+        "coin": 400,
+        "specialCoin": 0,
+        "timestamp": 1781536062
+      }
+    ]
+  },
+  "El_Consciente": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "El_Consciente",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1784005776
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "El_Consciente",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1783391350
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "El_Consciente",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1782697820
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "El_Consciente",
+        "coin": 3500,
+        "specialCoin": 0,
+        "timestamp": 1782274720
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "El_Consciente",
+        "coin": 60,
+        "specialCoin": 0,
+        "timestamp": 1782230813
+      },
+      {
+        "type": "Transfer",
+        "sender": "dondero",
+        "recipient": "El_Consciente",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1782147831
+      },
+      {
+        "type": "Transfer",
+        "sender": "El_Consciente",
+        "recipient": "VozarLjgz",
+        "coin": 25,
+        "specialCoin": 0,
+        "timestamp": 1782070801
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "El_Consciente",
+        "coin": 60,
+        "specialCoin": 0,
+        "timestamp": 1781910881
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "El_Consciente",
+        "coin": 175,
+        "specialCoin": 0,
+        "timestamp": 1781910654
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "El_Consciente",
+        "coin": 10000,
+        "specialCoin": 0,
+        "timestamp": 1781900188
+      }
+    ]
+  },
+  "Sykes": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sykes",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786419839
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sykes",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786416765
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sykes",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1785889255
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sykes",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1785884967
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Sykes",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640097
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sykes",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1785299989
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sykes",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1785206491
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Sykes",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784918816
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Sykes",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1784718319
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sykes",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 4,
+        "timestamp": 1784603226
+      }
+    ]
+  },
+  "KelynXin": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "KelynXin",
+        "recipient": "",
+        "coin": 4085,
+        "specialCoin": 0,
+        "timestamp": 1786665028
+      },
+      {
+        "type": "Deposit",
+        "sender": "KelynXin",
+        "recipient": "",
+        "coin": 975,
+        "specialCoin": 0,
+        "timestamp": 1784857862
+      },
+      {
+        "type": "Deposit",
+        "sender": "KelynXin",
+        "recipient": "",
+        "coin": 5847,
+        "specialCoin": 0,
+        "timestamp": 1784345572
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "KelynXin",
+        "coin": 110,
+        "specialCoin": 0,
+        "timestamp": 1781562657
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "KelynXin",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1781562378
+      }
+    ]
+  },
+  "EmaFFBG": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "EmaFFBG",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782781568
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "EmaFFBG",
+        "coin": 1150,
+        "specialCoin": 0,
+        "timestamp": 1782182747
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "EmaFFBG",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1782102627
+      },
+      {
+        "type": "Transfer",
+        "sender": "EmaFFBG",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1781880425
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "EmaFFBG",
+        "coin": 518,
+        "specialCoin": 0,
+        "timestamp": 1781880279
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "EmaFFBG",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1781584088
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "EmaFFBG",
+        "coin": 2063,
+        "specialCoin": 0,
+        "timestamp": 1781563720
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "EmaFFBG",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1781562463
+      }
+    ]
+  },
+  "Eltejuinogdl1": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Eltejuinogdl1",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1781562618
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Eltejuinogdl1",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1781562506
+      }
+    ]
+  },
+  "JhonMarquez": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "JhonMarquez",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786425013
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JhonMarquez",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786422947
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "JhonMarquez",
+        "coin": 2300,
+        "specialCoin": 0,
+        "timestamp": 1786416652
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "JhonMarquez",
+        "coin": 2040,
+        "specialCoin": 0,
+        "timestamp": 1785876200
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JhonMarquez",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1785873144
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "JhonMarquez",
+        "coin": 1150,
+        "specialCoin": 0,
+        "timestamp": 1785810529
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "Alvaro",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785544858
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JhonMarquez",
+        "coin": 1800,
+        "specialCoin": 0,
+        "timestamp": 1785538801
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "DarckNight",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785538548
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "Tanya",
+        "coin": 10000,
+        "specialCoin": 0,
+        "timestamp": 1785538135
+      }
+    ]
+  },
+  "Bubulubueno": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Bubulubueno",
+        "coin": 200000,
+        "specialCoin": 381,
+        "timestamp": 1781657366
+      },
+      {
+        "type": "Transfer",
+        "sender": "Bubulubueno",
+        "recipient": "Alex",
+        "coin": 200000,
+        "specialCoin": 381,
+        "timestamp": 1781630035
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Bubulubueno",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1781562631
+      }
+    ]
+  },
+  "JacobShadman": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "JacobShadman",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782182588
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "JacobShadman",
+        "coin": 650,
+        "specialCoin": 0,
+        "timestamp": 1782102962
+      },
+      {
+        "type": "Transfer",
+        "sender": "JacobShadman",
+        "recipient": "HITECH",
+        "coin": 250,
+        "specialCoin": 0,
+        "timestamp": 1781574388
+      },
+      {
+        "type": "Deposit",
+        "sender": "JacobShadman",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1781574342
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "JacobShadman",
+        "coin": 1100,
+        "specialCoin": 0,
+        "timestamp": 1781571736
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "JacobShadman",
+        "coin": 1340,
+        "specialCoin": 0,
+        "timestamp": 1781562640
+      }
+    ]
+  },
+  "BlackTempest": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "BlackTempest",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1786425233
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "BlackTempest",
+        "coin": 3600,
+        "specialCoin": 0,
+        "timestamp": 1786416832
+      },
+      {
+        "type": "Transfer",
+        "sender": "VozarLjgz",
+        "recipient": "BlackTempest",
+        "coin": 250,
+        "specialCoin": 0,
+        "timestamp": 1786247797
+      },
+      {
+        "type": "Transfer",
+        "sender": "BlackTempest",
+        "recipient": "Alex",
+        "coin": 220,
+        "specialCoin": 0,
+        "timestamp": 1786240202
+      },
+      {
+        "type": "Transfer",
+        "sender": "BlackTempest",
+        "recipient": "Maithos_Komeji",
+        "coin": 1700,
+        "specialCoin": 0,
+        "timestamp": 1786068400
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "BlackTempest",
+        "coin": 3600,
+        "specialCoin": 0,
+        "timestamp": 1785889319
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "BlackTempest",
+        "coin": 2021,
+        "specialCoin": 0,
+        "timestamp": 1785876722
+      },
+      {
+        "type": "Transfer",
+        "sender": "BlackTempest",
+        "recipient": "Juan123BS",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1785546587
+      },
+      {
+        "type": "Transfer",
+        "sender": "BlackTempest",
+        "recipient": "Alvaro",
+        "coin": 6500,
+        "specialCoin": 0,
+        "timestamp": 1785298826
+      },
+      {
+        "type": "Transfer",
+        "sender": "BlackTempest",
+        "recipient": "Juan123BS",
+        "coin": 0,
+        "specialCoin": 5,
+        "timestamp": 1785297387
+      }
+    ]
+  },
+  "Arjhidazz": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786814424
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786804538
+      },
+      {
+        "type": "Transfer",
+        "sender": "MizukiHR",
+        "recipient": "Arjhidazz",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786804513
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "CHUCKNORRIS",
+        "coin": 1450,
+        "specialCoin": 0,
+        "timestamp": 1786507029
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Arjhidazz",
+        "coin": 1450,
+        "specialCoin": 0,
+        "timestamp": 1786506679
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "Alvaro",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786502019
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arjhidazz",
+        "recipient": "Maithos_Komeji",
+        "coin": 6200,
+        "specialCoin": 0,
+        "timestamp": 1786440667
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Arjhidazz",
+        "coin": 2308,
+        "specialCoin": 0,
+        "timestamp": 1786425602
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Arjhidazz",
+        "coin": 7579,
+        "specialCoin": 10,
+        "timestamp": 1786425123
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Arjhidazz",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786422936
+      }
+    ]
+  },
+  "Tanya": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Tanya",
+        "coin": 1700,
+        "specialCoin": 0,
+        "timestamp": 1786416581
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tanya",
+        "recipient": "Maithos_Komeji",
+        "coin": 350,
+        "specialCoin": 0,
+        "timestamp": 1786315293
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "Tanya",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1786249722
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Tanya",
+        "coin": 1400,
+        "specialCoin": 0,
+        "timestamp": 1785810400
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Tanya",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640144
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tanya",
+        "recipient": "laurent",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785576854
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tanya",
+        "recipient": "VozarLjgz",
+        "coin": 160,
+        "specialCoin": 0,
+        "timestamp": 1785542698
+      },
+      {
+        "type": "Transfer",
+        "sender": "Tanya",
+        "recipient": "DarckNight",
+        "coin": 1090,
+        "specialCoin": 0,
+        "timestamp": 1785538677
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "Tanya",
+        "coin": 10000,
+        "specialCoin": 0,
+        "timestamp": 1785538135
+      },
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "Tanya",
+        "coin": 10,
+        "specialCoin": 0,
+        "timestamp": 1785538102
+      }
+    ]
+  },
+  "Fernanda Loera": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Fernanda Loera",
+        "coin": 700,
+        "specialCoin": 0,
+        "timestamp": 1784153684
+      },
+      {
+        "type": "Transfer",
+        "sender": "Fernanda Loera",
+        "recipient": "laurent",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1783747867
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Fernanda Loera",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1783417993
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "Fernanda Loera",
+        "coin": 700,
+        "specialCoin": 0,
+        "timestamp": 1783392588
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Fernanda Loera",
+        "coin": 1720,
+        "specialCoin": 0,
+        "timestamp": 1782857905
+      },
+      {
+        "type": "Transfer",
+        "sender": "Fernanda Loera",
+        "recipient": "Lionflute",
+        "coin": 0,
+        "specialCoin": 100,
+        "timestamp": 1782710169
+      },
+      {
+        "type": "Transfer",
+        "sender": "Fernanda Loera",
+        "recipient": "Arjhidazz",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1782708734
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "Fernanda Loera",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782260759
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "Fernanda Loera",
+        "coin": 0,
+        "specialCoin": 67,
+        "timestamp": 1782195702
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Fernanda Loera",
+        "coin": 3520,
+        "specialCoin": 0,
+        "timestamp": 1782176464
+      }
+    ]
+  },
+  "Killer123": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Killer123",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1782174031
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Killer123",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1781576965
+      }
+    ]
+  },
+  "HAEN": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HAEN",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786392391
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HAEN",
+        "coin": 2500,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "HAEN",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640271
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "HAEN",
+        "coin": 2750,
+        "specialCoin": 0,
+        "timestamp": 1785284179
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "HAEN",
+        "coin": 650,
+        "specialCoin": 0,
+        "timestamp": 1785043066
+      },
+      {
+        "type": "Transfer",
+        "sender": "ZeroR",
+        "recipient": "HAEN",
+        "coin": 0,
+        "specialCoin": 25,
+        "timestamp": 1784955805
+      },
+      {
+        "type": "Transfer",
+        "sender": "HAEN",
+        "recipient": "HITECH",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1784609785
+      },
+      {
+        "type": "Transfer",
+        "sender": "HITECH",
+        "recipient": "HAEN",
+        "coin": 100,
+        "specialCoin": 0,
+        "timestamp": 1784607908
+      },
+      {
+        "type": "Transfer",
+        "sender": "HAEN",
+        "recipient": "HITECH",
+        "coin": 400,
+        "specialCoin": 0,
+        "timestamp": 1784607552
+      },
+      {
+        "type": "Transfer",
+        "sender": "HAEN",
+        "recipient": "Alex",
+        "coin": 117,
+        "specialCoin": 0,
+        "timestamp": 1784606839
+      }
+    ]
+  },
+  "Emilianalabanana": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785284359
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 9000,
+        "specialCoin": 0,
+        "timestamp": 1784594917
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1784592513
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1783990090
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 2500,
+        "specialCoin": 0,
+        "timestamp": 1783403644
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1783403010
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1783402490
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 2333,
+        "specialCoin": 0,
+        "timestamp": 1783400668
+      },
+      {
+        "type": "Transfer",
+        "sender": "HITECH",
+        "recipient": "Emilianalabanana",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1783320263
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Emilianalabanana",
+        "coin": 1200,
+        "specialCoin": 0,
+        "timestamp": 1782744920
+      }
+    ]
+  },
+  "Caramelo_17": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Caramelo_17",
+        "coin": 550,
+        "specialCoin": 0,
+        "timestamp": 1782864047
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Caramelo_17",
+        "coin": 1100,
+        "specialCoin": 0,
+        "timestamp": 1782275094
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Caramelo_17",
+        "coin": 2200,
+        "specialCoin": 0,
+        "timestamp": 1781583838
+      }
+    ]
+  },
+  "BigJonaPunch": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "BigJonaPunch",
+        "coin": 850,
+        "specialCoin": 0,
+        "timestamp": 1781583977
+      }
+    ]
+  },
+  "Rysader27": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786392511
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1785884913
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 700,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1785299972
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 1800,
+        "specialCoin": 0,
+        "timestamp": 1785284419
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Rysader27",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784918515
+      },
+      {
+        "type": "Transfer",
+        "sender": "Rysader27",
+        "recipient": "Alvaro",
+        "coin": 3600,
+        "specialCoin": 0,
+        "timestamp": 1784873227
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 5800,
+        "specialCoin": 0,
+        "timestamp": 1784872338
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 8000,
+        "specialCoin": 0,
+        "timestamp": 1784872222
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Rysader27",
+        "coin": 2590,
+        "specialCoin": 0,
+        "timestamp": 1784718499
+      }
+    ]
+  },
+  "Argeos": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Argeos",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1781584098
+      }
+    ]
+  },
+  "Delta_Foxtrot": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Delta_Foxtrot",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786392511
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Delta_Foxtrot",
+        "coin": 700,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Delta_Foxtrot",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785284479
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "Alex",
+        "coin": 30000,
+        "specialCoin": 0,
+        "timestamp": 1784996282
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Delta_Foxtrot",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784918455
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Delta_Foxtrot",
+        "coin": 33600,
+        "specialCoin": 0,
+        "timestamp": 1784904161
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "Alvaro",
+        "coin": 0,
+        "specialCoin": 120,
+        "timestamp": 1784903988
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "mightmare1",
+        "coin": 0,
+        "specialCoin": 100,
+        "timestamp": 1784898699
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "Alex",
+        "coin": 201,
+        "specialCoin": 0,
+        "timestamp": 1784602502
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "Blair",
+        "coin": 400,
+        "specialCoin": 0,
+        "timestamp": 1784601335
+      }
+    ]
+  },
+  "blckdmnv": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "blckdmnv",
+        "coin": 1,
+        "specialCoin": 5,
+        "timestamp": 1787182909
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "blckdmnv",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1786917153
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "blckdmnv",
+        "coin": 2900,
+        "specialCoin": 0,
+        "timestamp": 1781584173
+      }
+    ]
+  },
+  "Burpexx_21": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Burpexx_21",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1782697829
+      },
+      {
+        "type": "Transfer",
+        "sender": "Burpexx_21",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 40,
+        "timestamp": 1782314764
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Burpexx_21",
+        "coin": 2500,
+        "specialCoin": 0,
+        "timestamp": 1782274730
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Burpexx_21",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1781584209
+      }
+    ]
+  },
+  "ZeroR": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "ZeroR",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786392451
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "ZeroR",
+        "coin": 1700,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "ZeroR",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1785284359
+      },
+      {
+        "type": "Transfer",
+        "sender": "ZeroR",
+        "recipient": "HAEN",
+        "coin": 0,
+        "specialCoin": 25,
+        "timestamp": 1784955805
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "ZeroR",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784918455
+      },
+      {
+        "type": "Transfer",
+        "sender": "ZeroR",
+        "recipient": "Alvaro",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1784871344
+      },
+      {
+        "type": "Transfer",
+        "sender": "ZeroR",
+        "recipient": "Alvaro",
+        "coin": 2500,
+        "specialCoin": 0,
+        "timestamp": 1784871041
+      },
+      {
+        "type": "Transfer",
+        "sender": "ZeroR",
+        "recipient": "Arjhidazz",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1784692165
+      },
+      {
+        "type": "Transfer",
+        "sender": "Roku94",
+        "recipient": "ZeroR",
+        "coin": 10000,
+        "specialCoin": 0,
+        "timestamp": 1784618280
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "ZeroR",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1784592633
+      }
+    ]
+  },
+  "Juanshoot_ve": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Juanshoot_ve",
+        "coin": 0,
+        "specialCoin": 33,
+        "timestamp": 1784229015
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Juanshoot_ve",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1782869541
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Juanshoot_ve",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1782182729
+      },
+      {
+        "type": "Deposit",
+        "sender": "Juanshoot_ve",
+        "recipient": "",
+        "coin": 5,
+        "specialCoin": 0,
+        "timestamp": 1781878374
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juanshoot_ve",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1781878148
+      },
+      {
+        "type": "Deposit",
+        "sender": "Juanshoot_ve",
+        "recipient": "",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1781864573
+      },
+      {
+        "type": "Deposit",
+        "sender": "Juanshoot_ve",
+        "recipient": "",
+        "coin": 15,
+        "specialCoin": 0,
+        "timestamp": 1781635738
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Juanshoot_ve",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1781584546
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Juanshoot_ve",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1781584471
+      }
+    ]
+  },
+  "Trachi": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Trachi",
+        "coin": 9000,
+        "specialCoin": 0,
+        "timestamp": 1784594797
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Trachi",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1783990031
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Trachi",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1783404959
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Trachi",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1783403592
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Trachi",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1783375976
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Trachi",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1782781584
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Trachi",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1782744828
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Trachi",
+        "coin": 4000,
+        "specialCoin": 0,
+        "timestamp": 1782174006
+      },
+      {
+        "type": "Transfer",
+        "sender": "Trachi",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 6,
+        "timestamp": 1782109469
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Trachi",
+        "coin": 2901,
+        "specialCoin": 0,
+        "timestamp": 1782103477
+      }
+    ]
+  },
+  "Racoon": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Racoon",
+        "recipient": "Alex",
+        "coin": 1800,
+        "specialCoin": 0,
+        "timestamp": 1783803539
+      },
+      {
+        "type": "Transfer",
+        "sender": "Racoon",
+        "recipient": "Rysader27",
+        "coin": 2500,
+        "specialCoin": 0,
+        "timestamp": 1783795215
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Racoon",
+        "coin": 2405,
+        "specialCoin": 0,
+        "timestamp": 1783376028
+      },
+      {
+        "type": "Transfer",
+        "sender": "Racoon",
+        "recipient": "Alex",
+        "coin": 2800,
+        "specialCoin": 0,
+        "timestamp": 1783268064
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "Racoon",
+        "coin": 7500,
+        "specialCoin": 0,
+        "timestamp": 1783182999
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Racoon",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1782781627
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Racoon",
+        "coin": 0,
+        "specialCoin": 8,
+        "timestamp": 1782604115
+      },
+      {
+        "type": "Transfer",
+        "sender": "Racoon",
+        "recipient": "Alex",
+        "coin": 3600,
+        "specialCoin": 0,
+        "timestamp": 1782522170
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Racoon",
+        "coin": 3784,
+        "specialCoin": 0,
+        "timestamp": 1782103611
+      },
+      {
+        "type": "Deposit",
+        "sender": "Racoon",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1781712476
+      }
+    ]
+  },
+  "WildWanderer": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "JhonMarquez",
+        "recipient": "WildWanderer",
+        "coin": 179,
+        "specialCoin": 0,
+        "timestamp": 1781665182
+      }
+    ]
+  },
+  "Byron119": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Byron119",
+        "coin": 250,
+        "specialCoin": 0,
+        "timestamp": 1783391862
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Byron119",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782864075
+      },
+      {
+        "type": "Transfer",
+        "sender": "Byron119",
+        "recipient": "PurpleHazeExit",
+        "coin": 100,
+        "specialCoin": 0,
+        "timestamp": 1782367628
+      },
+      {
+        "type": "Transfer",
+        "sender": "Byron119",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1782347845
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Byron119",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1782275131
+      },
+      {
+        "type": "Transfer",
+        "sender": "EiDredd",
+        "recipient": "Byron119",
+        "coin": 0.3,
+        "specialCoin": 0,
+        "timestamp": 1782192954
+      },
+      {
+        "type": "Deposit",
+        "sender": "Byron119",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1781925407
+      }
+    ]
+  },
+  "AngelUbx": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "AngelUbx",
+        "coin": 0,
+        "specialCoin": 8,
+        "timestamp": 1782604183
+      },
+      {
+        "type": "Deposit",
+        "sender": "AngelUbx",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1781996525
+      }
+    ]
+  },
+  "Roku94": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Roku94",
+        "coin": 2200,
+        "specialCoin": 0,
+        "timestamp": 1786392331
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Roku94",
+        "coin": 1300,
+        "specialCoin": 0,
+        "timestamp": 1786333919
+      },
+      {
+        "type": "Transfer",
+        "sender": "Roku94",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 8,
+        "timestamp": 1786320101
+      },
+      {
+        "type": "Transfer",
+        "sender": "Roku94",
+        "recipient": "Alex",
+        "coin": 594,
+        "specialCoin": 0,
+        "timestamp": 1786319524
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Roku94",
+        "coin": 3100,
+        "specialCoin": 0,
+        "timestamp": 1785798672
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Roku94",
+        "coin": 2200,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Roku94",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640164
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Roku94",
+        "coin": 0,
+        "specialCoin": 33,
+        "timestamp": 1785511135
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "Roku94",
+        "coin": 300,
+        "specialCoin": 0,
+        "timestamp": 1785298404
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "Roku94",
+        "coin": 2500,
+        "specialCoin": 0,
+        "timestamp": 1785298269
+      }
+    ]
+  },
+  "Elliot_Kerr": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "Elliot_Kerr",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782083372
+      }
+    ]
+  },
+  "JohnGrimm": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "JohnGrimm",
+        "coin": 550,
+        "specialCoin": 0,
+        "timestamp": 1784153640
+      },
+      {
+        "type": "Transfer",
+        "sender": "JohnGrimm",
+        "recipient": "ghostlysugar293",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1783063839
+      },
+      {
+        "type": "Deposit",
+        "sender": "JohnGrimm",
+        "recipient": "",
+        "coin": 4,
+        "specialCoin": 0,
+        "timestamp": 1782114420
+      },
+      {
+        "type": "Transfer",
+        "sender": "JohnGrimm",
+        "recipient": "Alex",
+        "coin": 125,
+        "specialCoin": 0,
+        "timestamp": 1782109858
+      },
+      {
+        "type": "Transfer",
+        "sender": "JohnGrimm",
+        "recipient": "Alex",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1782107490
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "JohnGrimm",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1782107387
+      },
+      {
+        "type": "Deposit",
+        "sender": "JohnGrimm",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782107230
+      }
+    ]
+  },
+  "Arkhalis": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Arkhalis",
+        "recipient": "Arjhidazz",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785287952
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Arkhalis",
+        "coin": 550,
+        "specialCoin": 0,
+        "timestamp": 1784153603
+      },
+      {
+        "type": "Transfer",
+        "sender": "Delta_Foxtrot",
+        "recipient": "Arkhalis",
+        "coin": 800,
+        "specialCoin": 0,
+        "timestamp": 1783392466
+      },
+      {
+        "type": "Transfer",
+        "sender": "Arkhalis",
+        "recipient": "ghostlysugar293",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1783042675
+      },
+      {
+        "type": "Deposit",
+        "sender": "Arkhalis",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1782949890
+      }
+    ]
+  },
+  "DoitSugar": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "DoitSugar",
+        "coin": 550,
+        "specialCoin": 0,
+        "timestamp": 1785205938
+      },
+      {
+        "type": "Transfer",
+        "sender": "DoitSugar",
+        "recipient": "ghostlysugar293",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784953880
+      },
+      {
+        "type": "Transfer",
+        "sender": "DoitSugar",
+        "recipient": "HITECH",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784610979
+      },
+      {
+        "type": "Transfer",
+        "sender": "DoitSugar",
+        "recipient": "Maithos_Komeji",
+        "coin": 100,
+        "specialCoin": 0,
+        "timestamp": 1784608975
+      },
+      {
+        "type": "Transfer",
+        "sender": "DoitSugar",
+        "recipient": "VozarLjgz",
+        "coin": 450,
+        "specialCoin": 0,
+        "timestamp": 1784606040
+      },
+      {
+        "type": "Transfer",
+        "sender": "DoitSugar",
+        "recipient": "Alex",
+        "coin": 520,
+        "specialCoin": 0,
+        "timestamp": 1784604347
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "DoitSugar",
+        "coin": 550,
+        "specialCoin": 0,
+        "timestamp": 1784600438
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "DoitSugar",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784598938
+      },
+      {
+        "type": "Transfer",
+        "sender": "DoitSugar",
+        "recipient": "Rysader27",
+        "coin": 250,
+        "specialCoin": 0,
+        "timestamp": 1784442725
+      },
+      {
+        "type": "Transfer",
+        "sender": "DoitSugar",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 269,
+        "timestamp": 1784439706
+      }
+    ]
+  },
+  "Angelc136": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "Angelc136",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1783072709
+      }
+    ]
+  },
+  "Nikita_Kryukov": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "Nikita_Kryukov",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1783245424
+      }
+    ]
+  },
+  "Dodge_Sanchez": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Dodge_Sanchez",
+        "coin": 850,
+        "specialCoin": 0,
+        "timestamp": 1786416599
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Dodge_Sanchez",
+        "coin": 1750,
+        "specialCoin": 0,
+        "timestamp": 1785810459
+      },
+      {
+        "type": "Transfer",
+        "sender": "Dodge_Sanchez",
+        "recipient": "Juan123BS",
+        "coin": 0,
+        "specialCoin": 12,
+        "timestamp": 1785286268
+      },
+      {
+        "type": "Transfer",
+        "sender": "Dodge_Sanchez",
+        "recipient": "Maithos_Komeji",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1785251823
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Dodge_Sanchez",
+        "coin": 1700,
+        "specialCoin": 0,
+        "timestamp": 1785206023
+      },
+      {
+        "type": "Transfer",
+        "sender": "Lionflute",
+        "recipient": "Dodge_Sanchez",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785130475
+      },
+      {
+        "type": "Transfer",
+        "sender": "Dodge_Sanchez",
+        "recipient": "Lionflute",
+        "coin": 400,
+        "specialCoin": 0,
+        "timestamp": 1785044146
+      },
+      {
+        "type": "Transfer",
+        "sender": "ghostlysugar293",
+        "recipient": "Dodge_Sanchez",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785043843
+      },
+      {
+        "type": "Transfer",
+        "sender": "FrixzT",
+        "recipient": "Dodge_Sanchez",
+        "coin": 1600,
+        "specialCoin": 0,
+        "timestamp": 1785043284
+      },
+      {
+        "type": "Transfer",
+        "sender": "FrixzT",
+        "recipient": "Dodge_Sanchez",
+        "coin": 1800,
+        "specialCoin": 0,
+        "timestamp": 1785043085
+      }
+    ]
+  },
+  "Kirue": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Kirue",
+        "coin": 2130,
+        "specialCoin": 0,
+        "timestamp": 1786425188
+      },
+      {
+        "type": "Transfer",
+        "sender": "Kirue",
+        "recipient": "MizukiHR",
+        "coin": 1210,
+        "specialCoin": 9,
+        "timestamp": 1786349936
+      },
+      {
+        "type": "Transfer",
+        "sender": "Kirue",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1786334246
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "Kirue",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1786249677
+      },
+      {
+        "type": "Transfer",
+        "sender": "Kirue",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1785979311
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "Kirue",
+        "coin": 1410,
+        "specialCoin": 0,
+        "timestamp": 1785876368
+      },
+      {
+        "type": "Transfer",
+        "sender": "Kirue",
+        "recipient": "MizukiHR",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785875927
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Kirue",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1785640350
+      },
+      {
+        "type": "Transfer",
+        "sender": "Kirue",
+        "recipient": "Alex",
+        "coin": 0,
+        "specialCoin": 3,
+        "timestamp": 1785620081
+      },
+      {
+        "type": "Transfer",
+        "sender": "Kirue",
+        "recipient": "Alvaro",
+        "coin": 0,
+        "specialCoin": 5,
+        "timestamp": 1785549112
+      }
+    ]
+  },
+  "MizukiHR": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "MizukiHR",
+        "recipient": "Blair",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786837137
+      },
+      {
+        "type": "Transfer",
+        "sender": "MizukiHR",
+        "recipient": "Arjhidazz",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1786804513
+      },
+      {
+        "type": "Transfer",
+        "sender": "Maithos_Komeji",
+        "recipient": "MizukiHR",
+        "coin": 2200,
+        "specialCoin": 0,
+        "timestamp": 1786428486
+      },
+      {
+        "type": "Transfer",
+        "sender": "Blair",
+        "recipient": "MizukiHR",
+        "coin": 2250,
+        "specialCoin": 0,
+        "timestamp": 1786425079
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "MizukiHR",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1786416616
+      },
+      {
+        "type": "Transfer",
+        "sender": "Kirue",
+        "recipient": "MizukiHR",
+        "coin": 1210,
+        "specialCoin": 9,
+        "timestamp": 1786349936
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "MizukiHR",
+        "coin": 1500,
+        "specialCoin": 0,
+        "timestamp": 1786305046
+      },
+      {
+        "type": "Transfer",
+        "sender": "Juan123BS",
+        "recipient": "MizukiHR",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1786249668
+      },
+      {
+        "type": "Transfer",
+        "sender": "laurent",
+        "recipient": "MizukiHR",
+        "coin": 731,
+        "specialCoin": 0,
+        "timestamp": 1786064721
+      },
+      {
+        "type": "Transfer",
+        "sender": "MizukiHR",
+        "recipient": "Alvaro",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785893465
+      }
+    ]
+  },
+  "Rick": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Rick",
+        "recipient": "Blair",
+        "coin": 600,
+        "specialCoin": 0,
+        "timestamp": 1783438450
+      },
+      {
+        "type": "Transfer",
+        "sender": "Rick",
+        "recipient": "Juan123BS",
+        "coin": 2600,
+        "specialCoin": 0,
+        "timestamp": 1783354217
+      }
+    ]
+  },
+  "kaine": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "kaine",
+        "coin": 700,
+        "specialCoin": 0,
+        "timestamp": 1785810429
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "kaine",
+        "coin": 1400,
+        "specialCoin": 0,
+        "timestamp": 1785205998
+      },
+      {
+        "type": "Transfer",
+        "sender": "kaine",
+        "recipient": "Arjhidazz",
+        "coin": 200,
+        "specialCoin": 0,
+        "timestamp": 1784683045
+      },
+      {
+        "type": "Transfer",
+        "sender": "kaine",
+        "recipient": "Alex",
+        "coin": 60,
+        "specialCoin": 0,
+        "timestamp": 1784602946
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "kaine",
+        "coin": 1100,
+        "specialCoin": 0,
+        "timestamp": 1784600425
+      },
+      {
+        "type": "Transfer",
+        "sender": "kaine",
+        "recipient": "HITECH",
+        "coin": 140,
+        "specialCoin": 0,
+        "timestamp": 1784519465
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "kaine",
+        "coin": 0,
+        "specialCoin": 10,
+        "timestamp": 1784427449
+      },
+      {
+        "type": "Transfer",
+        "sender": "kaine",
+        "recipient": "HITECH",
+        "coin": 70,
+        "specialCoin": 0,
+        "timestamp": 1784349666
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sisyphus",
+        "recipient": "kaine",
+        "coin": 1800,
+        "specialCoin": 0,
+        "timestamp": 1783657462
+      },
+      {
+        "type": "Transfer",
+        "sender": "kaine",
+        "recipient": "Sisyphus",
+        "coin": 2000,
+        "specialCoin": 0,
+        "timestamp": 1783657393
+      }
+    ]
+  },
+  "cachoras": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "cachoras",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1783486610
+      }
+    ]
+  },
+  "Parcax": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Parcax",
+        "recipient": "JhonMarquez",
+        "coin": 3000,
+        "specialCoin": 0,
+        "timestamp": 1785002044
+      },
+      {
+        "type": "Transfer",
+        "sender": "Parcax",
+        "recipient": "JhonMarquez",
+        "coin": 20000,
+        "specialCoin": 0,
+        "timestamp": 1783697609
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "Parcax",
+        "coin": 1,
+        "specialCoin": 0,
+        "timestamp": 1783696708
+      }
+    ]
+  },
+  "Sebastienmatu": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Sebastienmatu",
+        "recipient": "laurent",
+        "coin": 16085,
+        "specialCoin": 0,
+        "timestamp": 1786808444
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sebastienmatu",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1786416699
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sebastienmatu",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785810546
+      },
+      {
+        "type": "Deposit",
+        "sender": "Sebastienmatu",
+        "recipient": "",
+        "coin": 2500,
+        "specialCoin": 0,
+        "timestamp": 1785753901
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sebastienmatu",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1785206430
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sebastienmatu",
+        "recipient": "Tyler_Prime",
+        "coin": 38,
+        "specialCoin": 0,
+        "timestamp": 1784619071
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sebastienmatu",
+        "recipient": "Tyler_Prime",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784618893
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sebastienmatu",
+        "recipient": "Tyler_Prime",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784618584
+      },
+      {
+        "type": "Transfer",
+        "sender": "Sebastienmatu",
+        "recipient": "Tyler_Prime",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784617402
+      },
+      {
+        "type": "Transfer",
+        "sender": "CHUCKNORRIS",
+        "recipient": "Sebastienmatu",
+        "coin": 1000,
+        "specialCoin": 0,
+        "timestamp": 1784600571
+      }
+    ]
+  },
+  "davidboris1": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alex",
+        "recipient": "davidboris1",
+        "coin": 0,
+        "specialCoin": 33,
+        "timestamp": 1784228715
+      }
+    ]
+  },
+  "Crash": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Crash",
+        "recipient": "JellyBean",
+        "coin": 0,
+        "specialCoin": 1,
+        "timestamp": 1784345640
+      }
+    ]
+  },
+  "Mel_Jackson": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "Mel_Jackson",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784505840
+      }
+    ]
+  },
+  "ElBennyGarcia": {
+    "transactions": [
+      {
+        "type": "Deposit",
+        "sender": "ElBennyGarcia",
+        "recipient": "",
+        "coin": 500,
+        "specialCoin": 0,
+        "timestamp": 1784783099
+      }
+    ]
+  },
+  "Wasly": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Wasly",
+        "coin": 5000,
+        "specialCoin": 0,
+        "timestamp": 1786671288
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Wasly",
+        "coin": 750,
+        "specialCoin": 0,
+        "timestamp": 1785792968
+      },
+      {
+        "type": "Transfer",
+        "sender": "Alvaro",
+        "recipient": "Wasly",
+        "coin": 1250,
+        "specialCoin": 0,
+        "timestamp": 1785284299
+      }
+    ]
+  },
+  "Shawn": {
+    "transactions": [
+      {
+        "type": "Transfer",
+        "sender": "Shawn",
+        "recipient": "Alex",
+        "coin": 9000,
+        "specialCoin": 0,
+        "timestamp": 1786747084
+      }
+    ]
+  }
+}

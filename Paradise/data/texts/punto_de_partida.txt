@@ -1,0 +1,56 @@
+## 🗺️ **PUNTO DE PARTIDA**
+
+Al ingresar al servidor podrás elegir entre **dos formas de comenzar tu viaje**, dependiendo de cómo quieras desarrollar la llegada de tu personaje a **Serenity Bunker**:
+
+🌲 **Opción 1 — El Exterior**
+
+Comenzarás **fuera de Serenity** en la ciudad que tu elijas, en un entorno hostil donde sobrevivir será tu primera prioridad.
+
+Tu personaje deberá avanzar con sus propios medios, enfrentándose a los peligros del exterior y buscando el camino que lo lleve hasta **Serenity Bunker**, el cual se encuentra marcado en el mapa.
+
+📻 Si necesitas orientación o ayuda durante el trayecto, recuerda que puedes usar las **Frecuencias 💬 110 y 🆘 SOS** que podrán servirte para intentar contactar con otros sobrevivientes.
+
+*Esta opción está pensada para quienes quieran rolear y desarrollar el recorrido de su personaje antes de llegar al búnker.*
+
+
+🏢 **Opción 2 — Zona Segura**
+
+Podrás comenzar directamente en el **punto de aparición en el exterior de Serenity Bunker**.
+
+Esta opción te permite comenzar tu historia directamente cerca del Asentamiento Principal, evitando el recorrido inicial desde las zonas hostiles.
+
+
+
+🎒 **KIT DE SOBREVIVIENTE**
+
+Al ingresar al servidor podrás reclamar tu **Kit de Sobreviviente**  y otros kits que están disponibles en ese momento, los cuales contienen objetos utiles para que tu personaje pueda sobrevivir. 
+
+Para obtenerlo:
+
+> Abre el **Menú de Jugador** presionando la tecla **F6** y seleccionas la opción de **Kits.**
+
+
+
+🔗 **CANALES CLAVE**
+
+Para comenzar, te recomendamos revisar y tener presentes los siguientes canales:
+
+• 📻 [**Frecuencia 110**](https://discord.com/channels/1094881421606256773/1545515458030206996) → Canal de comunicación principal utilizado por los sobrevivientes.
+• 🆘 [**Frecuencia SOS**](https://discord.com/channels/1094881421606256773/1545515209244807229) → Frecuencia destinada a emergencias y solicitudes de auxilio.
+• 📖 [**Manual Paradise**](https://discord.com/channels/1094881421606256773/1543016214576500756) → Manual de reglas y mecánicas del servidor.
+• 📚  [**Ruta de Lore**](https://discord.com/channels/1094881421606256773/1350944108407033947) → Historia de cada personaje y del mundo.
+• 🆔  [**Doc. Identidad**](https://discord.com/channels/1094881421606256773/1543772297238683760) → Documentos de identidad de los personajes de cada jugador.
+• ℹ️ [**Información**](https://discord.com/channels/1094881421606256773/1350946729226141787) → Guías esenciales de caracter tecnico.
+• 🌴  [**Paradise Shop**](https://discord.com/channels/1094881421606256773/1357164211951898689) → Catálogo de artículos disponibles mediante Paradise Coins.
+• ⏳ [**Línea del Tiempo**](https://discord.com/channels/1094881421606256773/1418812587696586832) → Cronología de acontecimientos generales dentro de la historia.
+
+
+## 🔌 Conexión al Servidor
+
+**IP**:   
+```172.240.18.133```   
+**Puerto**:   
+```27260```   
+**Conexión directa**:   
+```steam://connect/172.240.18.133:27260```
+
